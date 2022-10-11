@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yun Wang"
+title                    : "Yun Wang"
 title_separator          : "-"
 name                     : &name "Dr. Yun Wang"
 description              : &description "personal descriptionxxx"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Yun Wang"
   avatar           : "profile.jpeg"
-  bio              : "Bioinformatician"
+  bio              : "Bioinformaticianxxx"
   location         : "Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

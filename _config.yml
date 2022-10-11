@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yun Wang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dr. Yun Wang"
 description              : &description "personal descriptionxxx"

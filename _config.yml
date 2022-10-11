@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Yun Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Bioinformatician"
+  location         : "Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "yun.wang424@hotmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Yun-Wang-27"
+  researchgate     : "https://www.researchgate.net/profile/Yun-Wang-27"
   uri              :
   bitbucket        :
   codepen          :

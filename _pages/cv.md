@@ -55,4 +55,4 @@ Teaching
   
 Hobbys
 ======
-* [Hiking](images/hiking.png)
+* [Hiking](../images/hiking.png)

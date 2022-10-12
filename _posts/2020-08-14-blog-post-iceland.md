@@ -1,7 +1,7 @@
 ---
 title: 'Iceland'
 date: 2020-10-12
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2020/08/blog-post-iceland/
 tags:
   - cool posts
   - category1

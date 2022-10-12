@@ -1,7 +1,7 @@
 ---
 title: 'Elbrus (part1)'
 date: 2019-07-31
-permalink: /posts/2012/08/blog-Elbrus-1/
+permalink: /posts/2019/07/blog-Elbrus-1/
 tags:
   - cool posts
   - category1

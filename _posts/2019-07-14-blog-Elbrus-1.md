@@ -1,6 +1,6 @@
 ---
 title: 'Elbrus (part1)'
-date: 2019-07-31
+date: 2019-07-14
 permalink: /posts/2019/07/blog-Elbrus-1/
 tags:
   - cool posts

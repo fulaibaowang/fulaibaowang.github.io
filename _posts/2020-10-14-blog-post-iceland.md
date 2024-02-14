@@ -1,6 +1,6 @@
 ---
 title: 'Iceland'
-date: 2020-10-12
+date: 2020-10-14
 permalink: /posts/2020/10/blog-post-iceland/
 tags:
   - cool posts

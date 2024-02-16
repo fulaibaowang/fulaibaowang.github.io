@@ -1,8 +1,7 @@
 # main links links
 main:
 
-#  - title: "Talks"
-#    url: /talks/    
+   
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -17,8 +16,11 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Blog Posts (in chinese)"
+  - title: "codes"
     url: /year-archive/
+
+ - title: "cool stuff (in chinese)"
+   url: /talks/ 

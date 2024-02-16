@@ -20,7 +20,7 @@ main:
   #   url: /publications/
 
   - title: "codes"
-    url: /talks/
-
-  - title: "cool stuff (in chinese)"
     url: /year-archive/ 
+  
+  - title: "cool stuff (in chinese)"
+    url: /talks/

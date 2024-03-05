@@ -7,6 +7,9 @@ tags:
 
 ---
 Finding Non-Empty Files
+
 ```
 find *_report.output.tsv -type f -size +0 | wc -l
 ```
+
+`find *_report.output.tsv -type f -size +0 | wc -l`

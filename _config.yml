@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "yun.wang424@hotmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Yun-Wang-27"
+  researchgate     : #"https://www.researchgate.net/profile/Yun-Wang-27"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "FulaibaoWang"
+  twitter          : #"FulaibaoWang"
   vine             :
   weibo            :
   xing             :

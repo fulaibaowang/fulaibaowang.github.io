@@ -1,7 +1,7 @@
 ---
-title: 'Non-Empty Files'
+title: 'Non-Empty Files_2'
 date: 2023-08-09
-permalink: /posts/2023/08/bash-Non-Empty-Files/
+permalink: /posts/2023/08/bash-Non-Empty-Files_2/
 tags:
   - bash
 

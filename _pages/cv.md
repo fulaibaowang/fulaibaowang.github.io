@@ -21,14 +21,14 @@ Work experience
 ======
 * Since November 2022 (current position): Bioinformatician
   * Max Planck Institute for Biology of Ageing in Cologne, Bioinformatics Core Facility
-  * support the researchers by helping analysis of different biological data and providing automated pipelines
-  * https://bioinformatics.age.mpg.de/
+  * support the researchers by helping analyse all kind of different biological data and developing automated pipelines
+  * [https://bioinformatics.age.mpg.de/](https://bioinformatics.age.mpg.de/)
 
 Skills
 ======
 * Bioinformatics
-  * pipeline development for NGS data (DNA-seq, bulk and single cell RNA-seq, Ribo-seq, Nanopore, clip-seq)
-  * Statistical analysis and visulization
+  * analysing NGS data (DNA-seq, bulk and single cell RNA-seq, Ribo-seq, Nanopore, clip-seq)
+  * statistical analysis and visulization
   * scripting (R, Python, bash)
   * agile customer service
 * workflow management with Nextflow, Docker and slurm

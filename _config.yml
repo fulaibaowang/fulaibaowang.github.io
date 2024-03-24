@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Dr. Yun Wang"
   avatar           : "profile.jpeg"
-  bio              : "Bioinformatician. \n\A continuous learner."
+  bio              : | 
+                      Bioinformatician. 
+                      A continuous learner.
   location         : "Cologne, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

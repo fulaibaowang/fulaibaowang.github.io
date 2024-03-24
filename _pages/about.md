@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Stumbling into biology as my major during Bachelor's by accident (literally), I felt bioinformatics might be a good match as I'd been glued to my computer for eons anyway. 
+Stumbling into biology as my major during Bachelor's by accident (literally), I felt among all the subjects in biology bioinformatics might be a good match as I'd been glued to my computer for eons anyway. 
 
 Being not entirely convinced that I could make a living on this and also wanna to see more excited world out there, I left my hometown Shanghai and went for master's studies in Freiburg, Germany. 
 

@@ -8,16 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am bioinformatician who was born and raised in Shanghai, China and currently live in Freiburg, Germany. In 2022 I got my PhD degree at Universitty of Freriburg's [Department of Ecology and Evolution](http://www.bio1.uni-freiburg.de/oeko/evo-eco/evo-eco) in [Dr. Fabian Staubach](https://staubachlab.org)'s lab.
-
-1
-======
-xxx
-
-2
-------
-xxx
-
-**3**
-
-xxx
+Stumbling into biology as my major during Bachelor's by accident (literally), I felt bioinformatics might be a good match as I'd been glued to my computer for eons anyway. 
+Being not entirely convinced that I could make a living on this and also wanna to see more excited world out there, I left my hometown Shanghai and went for master's studies in Freiburg, Germany. 
+Loving the city and having some luck to get a stipend, I stayed for a PhD. Working day and night on the bench and playing with fruit flies, I finally realized that it is indeed possible (and nice) to do bioinformatics for a living. 
+I am currently work as Bioinformatican in Max Planck Institute for Biology of Ageing in Cologne.

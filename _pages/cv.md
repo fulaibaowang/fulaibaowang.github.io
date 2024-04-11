@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-read in [PDF](../files/cvjob.en9.pdf)
+read in [PDF](../files/cv_Wang.pdf)
 
 Education
 ======

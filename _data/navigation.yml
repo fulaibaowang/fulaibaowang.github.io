@@ -1,10 +1,6 @@
 # main links links
 main:
-
-   
-
-#  - title: "Teaching"
-#    url: /teaching/    
+    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -19,8 +15,11 @@ main:
   - title: "codes"
     url: /year-archive/ 
   
-  - title: "Databases"
+  - title: "databases"
     url: /publications/
 
   - title: "cool stuff (in chinese)"
     url: /talks/
+
+ - title: "others"
+   url: /teaching/

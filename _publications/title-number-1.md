@@ -2,8 +2,6 @@
 title: " "
 permalink: /publication/title-number-1
 ---
-summary
-
 | **Category**                   | **Database**                              | **Description**                                                                                  |
 |-------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **Gene Expression Databases** | GTEx                                      | RNA expression data across multiple human tissues.                                               |

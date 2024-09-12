@@ -16,11 +16,11 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  # - title: "Publications"
-  #   url: /publications/
-
   - title: "codes"
     url: /year-archive/ 
   
+  - title: "Databases"
+    url: /publications/
+
   - title: "cool stuff (in chinese)"
     url: /talks/

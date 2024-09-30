@@ -4,11 +4,11 @@ permalink: /publication/title-number-1
 ---
 | **Category**                   | **Database**                              | **Description**                                                                                  |
 |-------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **Gene Expression Databases** | GTEx                                      | RNA expression data across multiple human tissues.                                               |
+| **Gene Expression Databases** | [GTEx](./GTEx)                                      | RNA expression data across multiple human tissues.                                               |
+|                               | Expression Atlas                          | Provides data on gene expression patterns across different species and conditions, such as diseases.         |
 |                               | GEO                                       | Repository of high-throughput gene expression data, including RNA-seq and microarray data.       |
 |                               | ArrayExpress                              | Contains a wide array of gene expression data similar to GEO.                                     |
 |                               | Human Protein Atlas                       | Includes RNA and protein expression data in various tissues and organs.                          |
-|                               | Expression Atlas                          | Provides data on gene expression patterns across different conditions, such as diseases.         |
 | **Genomic Variation Databases**| 1000 Genomes Project                      | Catalog of human genetic variation, including whole-genome sequences.                            |
 |                               | GNOMAD                                    | Aggregates exome and genome sequencing data to study genetic variation.                          |
 |                               | dbSNP                                     | Database for single nucleotide polymorphisms (SNPs) and other genetic variations.                |

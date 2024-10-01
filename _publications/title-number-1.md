@@ -4,8 +4,8 @@ permalink: /publication/title-number-1
 ---
 | **Category**                   | **Database**                              | **Description**                                                                                  |
 |-------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **Gene Expression Databases** | [GTEx](./GTEx)                                      | RNA expression data across multiple human tissues.                                               |
-|                               | Expression Atlas                          | Provides data on gene expression patterns across different species and conditions, such as diseases.         |
+| **Gene Expression Databases** | [GTEx](../publication/GTEx)               | RNA expression data across multiple human tissues.                                               |
+|                               | [Expression Atlas](../publication/EAtlas) | Provides data on gene expression patterns across different species and conditions, such as diseases.         |
 |                               | GEO                                       | Repository of high-throughput gene expression data, including RNA-seq and microarray data.       |
 |                               | ArrayExpress                              | Contains a wide array of gene expression data similar to GEO.                                     |
 |                               | Human Protein Atlas                       | Includes RNA and protein expression data in various tissues and organs.                          |
@@ -23,7 +23,7 @@ permalink: /publication/title-number-1
 | **Epigenomics and Regulatory** | ENCODE                                    | Identifies all functional elements in the human genome.                                          |
 |                               | Roadmap Epigenomics Project               | Provides data on the epigenomic landscape of different tissues and cell types.                   |
 |                               | BluePrint Epigenome                       | Focuses on epigenomic data of blood cells in health and disease.                                 |
-| **Integrated and Multi-Omics** | Ensembl                                   | Comprehensive resource for genomic data, including annotations and variants.                     |
+| **Integrated and Multi-Omics** | [Ensembl](../publication/Ensembl)         | Comprehensive resource for genomic data, including annotations and variants.                     |
 |                               | UCSC Genome Browser                       | Integrates data from various genomic resources with visualization tools.                         |
 |                               | FANTOM                                    | Contains data on gene expression and regulatory elements, focusing on non-coding RNAs.           |
 | **Single-Cell Databases**     | Human Cell Atlas                          | Provides single-cell RNA-seq data from various human tissues and organs.                         |

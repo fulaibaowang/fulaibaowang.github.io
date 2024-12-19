@@ -9,18 +9,20 @@ permalink: /publication/title-number-1
 |                               | GEO                                       | Repository of high-throughput gene expression data, including RNA-seq and microarray data.       |
 |                               | ArrayExpress                              | Contains a wide array of gene expression data similar to GEO.                                     |
 |                               | Human Protein Atlas                       | Includes RNA and protein expression data in various tissues and organs.                          |
-| **Genomic Variation Databases**| 1000 Genomes Project                      | Catalog of human genetic variation, including whole-genome sequences.                            |
-|                               | gnomAD                                    | Aggregates exome and genome sequencing data to study genetic variation.                          |
-|                               | dbSNP                                     | Database for single nucleotide polymorphisms (SNPs) and other genetic variations.                |
-|                               | ClinVar                                   | Contains information about the relationship between genetic variants and human health.           |
-|                               | UK Biobank                                | Large-scale biomedical database with genetic, lifestyle, and health information.                 |
+| **Genomic Variation - population genetics**| 1000 Genomes Project                      | Catalog of human genetic variation, including whole-genome sequences.                            |
 |                               | Human Genome Diversity Project (HGDP)     | Resource for studying genetic diversity across human populations.                                |
 |                               | European Variation Archive (EVA)     |           |
-|                               | GWAS Catalog     |              |
+|  **Genomic Variation - variant interpretation**                             | gnomAD                                    | Aggregates exome and genome sequencing data to study genetic variation.                          |
+|                               | dbSNP                                     | Database for single nucleotide polymorphisms (SNPs) and other genetic variations.                |
+|                               | ClinVar                                   | Contains information about the relationship between genetic variants and human health.           |
+|   **Genomic Variation - Large-Scale Cohorts**                            | UK Biobank                                | Large-scale biomedical database with genetic, lifestyle, and health information.                 |
+|                            | GWAS Catalog     |              |
+|                               | TOPMed                                    | Focuses on diseases related to heart, lung, blood, and sleep disorders.  
+|       **Genomic Variation - cancer focused**              | TCGA                                      | Comprehensive genomic data from various cancer types.                                            |
 |                               | COSMIC    |              |
-| **Disease-Specific Databases** | TCGA                                      | Comprehensive genomic data from various cancer types.                                            |
-|                               | dbGaP                                     | Contains datasets exploring the genetic basis of various diseases.                               |
-|                               | TOPMed                                    | Focuses on diseases related to heart, lung, blood, and sleep disorders.                          |
+|                               | dbGaP                                     | Contains datasets exploring the genetic basis of various diseases.                               | 
+|                               | GDC    |              |
+|                               | ICGC    |              |                       |
 | **Epigenomics and Regulatory** | ENCODE                                    | Identifies all functional elements in the human genome.                                          |
 |                               | Roadmap Epigenomics Project               | Provides data on the epigenomic landscape of different tissues and cell types.                   |
 |                               | BluePrint Epigenome                       | Focuses on epigenomic data of blood cells in health and disease.                                 |

@@ -18,7 +18,8 @@ permalink: /publication/title-number-1
 | **Genomic Variation - Large-Scale Cohorts** | UK Biobank                       | Large-scale biomedical database with genetic, lifestyle, and health information.               |
 |                                         | GWAS Catalog                      | Focuses on genetic variants associated with traits/diseases from published GWAS studies.       |
 |                                         | TOPMed                            | Focuses on diseases related to heart, lung, blood, and sleep disorders.                        |
-| **Genomic Variation - cancer focused**  | [TCGA / GDC](../publication/GDC)  | Comprehensive multi-omics data for various cancer types.                                       |
+| **Genomic Variation - cancer focused**  | [cBioPortal](../publication/cBioPortal)  | Interactive platform for visualizing and analyzing multi-omics cancer data with clinical outcomes.    |
+|                                         | TCGA / GDC                        | Comprehensive multi-omics data for various cancer types.            |                        
 |                                         | COSMIC                            | Catalogue of somatic mutations in cancer, including driver mutations.                          |
 |                                         | dbGaP                             | Contains datasets exploring the genetic basis of various diseases.                             |
 |                                         | ICGC                              | International repository for cancer genome data, covering rare and global cancers.             |

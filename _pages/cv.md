@@ -19,9 +19,17 @@ Education
 
 Work experience
 ======
-* Since November 2022 (current position): Bioinformatician
+* Since Jan 2025 (current position)
+  * [Gagneur lab](https://www.cs.cit.tum.de/cmm/home/), Technical University of Munich / German Human Genome-Phenome Archive ([GHGA](https://www.ghga.de/))
+  * developer of two  open source bioinformatics pipelines:
+    * [QC workflow↗](https://github.com/BfArM-MVH/GRZ_QC_Workflow) for genome sequencing centers across Germany 
+    * [nf-core/drop↗](https://github.com/nf-core/drop/tree/dev) for rare-disease RNA-seq analysis
+  * Provide data stewardship, consulting, and technical support to researchers via the research data hub
+
+* 2022-2024: Bioinformatician
   * Max Planck Institute for Biology of Ageing in Cologne, Bioinformatics Core Facility
-  * support the researchers by helping analyse all kind of different biological data and developing automated pipelines
+  * support the researchers by helping analyse all kind of different biological data and 
+  * develop and maintain reproducible Next Generation Sequencing analysis pipelines and computational infrastructure
   * [https://bioinformatics.age.mpg.de/](https://bioinformatics.age.mpg.de/)
 
 Skills
@@ -31,8 +39,13 @@ Skills
   * statistical analysis and visulization
   * scripting (R, Python, bash)
   * agile customer service
-* workflow management with Nextflow, Docker and slurm
-* git, github
+* workflow management with Nextflow, snakemaker, Docker and conda
+* High-Performance & Cloud Computing
+   * Slurm, OpenStack, Terraform
+   * resource optimization
+* Version Control & Collaboration
+  * git, GitHub
+  * agile
 
 <!--
 
@@ -57,4 +70,4 @@ Teaching
   
 Hobbys
 ======
-* [Hiking](../images/hiking.png), Skiing
+* [Hiking](../images/hiking.png), [Skiing](https://www.youtube.com/shorts/RN3tD9wW_rA)

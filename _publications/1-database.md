@@ -1,6 +1,6 @@
 ---
-title: " "
-permalink: /publication/title-number-1
+title: "1-database"
+permalink: /publication/1-database
 ---
 | Category                                | Database                           | Description                                                                                     |
 |-----------------------------------------|------------------------------------|-------------------------------------------------------------------------------------------------|

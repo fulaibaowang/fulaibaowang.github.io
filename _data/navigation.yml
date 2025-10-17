@@ -15,11 +15,11 @@ main:
   - title: "codes"
     url: /year-archive/ 
   
-  - title: "databases"
+  - title: "bioinformatics"
     url: /publications/
 
   - title: "blogs"
     url: /talks/
 
-  - title: "interesting things"
+  - title: "my interesting repos"
     url: /teaching/

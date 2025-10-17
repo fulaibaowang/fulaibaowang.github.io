@@ -1,5 +1,5 @@
 ---
-title: "0-NGS"
+title: "NGS"
 permalink: /publication/0-NGS
 date: 2025-02-17
 ---

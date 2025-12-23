@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* Since Jan 2025 (current position)
+* since 11.2025
+  * Postdoctoral Fellow ([SMASH Program](https://smash.ung.si/)), [biolab](https://fri.uni-lj.si/en/laboratory/biolab-27), University of Ljubljana
+
+* 01.2025-09.2025 
   * [Gagneur lab](https://www.cs.cit.tum.de/cmm/home/), Technical University of Munich / German Human Genome-Phenome Archive ([GHGA](https://www.ghga.de/))
   * developer of two  open source bioinformatics pipelines:
     * [QC workflow↗](https://github.com/BfArM-MVH/GRZ_QC_Workflow) for genome sequencing centers across Germany 

@@ -1,0 +1,34 @@
+Host r2d2
+    HostName r2d2.age.mpg.de
+    Port 22
+    User YWang
+
+Host gss
+    HostName raven01i.mpcdf.mpg.de
+    User wangy
+    ProxyCommand ssh -W %h:%p gate2.mpcdf.mpg.de 2>/dev/null
+    GSSAPIAuthentication yes
+    GSSAPIDelegateCredentials yes
+
+Host gate2.mpcdf.mpg.de
+    User wangy
+    GSSAPIAuthentication yes
+    GSSAPIDelegateCredentials yes
+    ControlMaster auto
+    ControlPath ~/.ssh/control:%h:%p:%r
+
+
+Host hpc
+    HostName hpc02.bioinformatics.studio
+    User wangy
+    ProxyCommand ssh -W %h:%p gate2.mpcdf.mpg.de 2>/dev/null
+    GSSAPIAuthentication yes
+    GSSAPIDelegateCredentials yes
+
+
+Host raven02
+    HostName raven02i.mpcdf.mpg.de
+    User wangy
+    ProxyCommand ssh -W %h:%p gate2.mpcdf.mpg.de 2>/dev/null
+    GSSAPIAuthentication yes
+    GSSAPIDelegateCredentials yes

@@ -20,5 +20,5 @@ main:
   - title: "Blogs"
     url: /blogs/
 
-  - title: "Resources"
-    url: /resources/
+  - title: "Repos"
+    url: /repos/

@@ -1,8 +1,9 @@
 ---
 title: "useful links for learning deep learning"
 collection: teaching
-permalink: /resources/learning-ai/
+permalink: /repos/learning-ai/
 redirect_from:
+  - /resources/learning-ai/
   - /teaching/learningAI
 ---
 MIT Introduction to Deep Learning [link](https://introtodeeplearning.com/), [youtube](https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)

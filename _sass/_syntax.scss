@@ -122,3 +122,30 @@ div.highlighter-rouge, figure.highlight {
 .highlight .vg { color: #22b3eb } /* Name.Variable.Global */
 .highlight .vi { color: #22b3eb } /* Name.Variable.Instance */
 .highlight .il { color: #2aa198 } /* Literal.Number.Integer.Long */
+
+/* Dark theme: keep Solarized accents, lighten base text (comments stay #93a1a1) */
+html[data-theme="dark"] {
+  div.highlighter-rouge:before, figure.highlight:before {
+    background-color: #3a3a3a;
+    color: #c8c8c8;
+  }
+  .highlight .err { color: #d3dbdb }
+  .highlight .g { color: #d3dbdb }
+  .highlight .l { color: #d3dbdb }
+  .highlight .n { color: #d3dbdb }
+  .highlight .p { color: #d3dbdb }
+  .highlight .ge { color: #d3dbdb }
+  .highlight .go { color: #d3dbdb }
+  .highlight .gp { color: #d3dbdb }
+  .highlight .gs { color: #d3dbdb }
+  .highlight .gt { color: #d3dbdb }
+  .highlight .ld { color: #d3dbdb }
+  .highlight .na { color: #d3dbdb }
+  .highlight .nl { color: #d3dbdb }
+  .highlight .nn { color: #d3dbdb }
+  .highlight .nx { color: #d3dbdb }
+  .highlight .py { color: #d3dbdb }
+  .highlight .w { color: #d3dbdb }
+  .highlight .sd { color: #d3dbdb }
+  .highlight .sh { color: #d3dbdb }
+}

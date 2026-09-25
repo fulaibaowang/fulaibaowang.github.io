@@ -28,6 +28,8 @@ Fortunately, I’ve had the opportunity to develop all three aspects through my 
 
 As a Bioinformatician at the Max Planck Institute for Biology of Ageing in Cologne, I worked on various exciting research projects and gained extensive experience in both biology and programming.
 
-At Julien Gagneur’s lab at the Technical University of Munich and within the German Human Genome-Phenome Archive (GHGA), I serve as a main developer of two open-source bioinformatics workflows, which greatly strengthened my engineering and DevOps skills in a short time.
+At Julien Gagneur’s lab at the Technical University of Munich and within the German Human Genome-Phenome Archive (GHGA), I was a main developer of two open-source bioinformatics workflows, which greatly strengthened my engineering and DevOps skills in a short time.
+
+Since November 2025, I have been a postdoctoral fellow in the [SMASH program](https://smash.ung.si/) at the University of Ljubljana, where I develop LLM-based workflows for scientific literature search, answer generation and knowledge-base curation.
 
 I’m excited to contribute further to research using my bioinformatics expertise — and to explore how these skills can be combined with emerging trends in AI.

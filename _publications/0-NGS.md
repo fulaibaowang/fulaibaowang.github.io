@@ -4,6 +4,7 @@ permalink: /databases/ngs/
 redirect_from:
   - /publication/0-NGS
 date: 2025-02-17
+excerpt: "Widely used vs. newer sequencing methods, from genome and methylation to chromatin, RNA and translation."
 ---
 | Layer / Goal                                      | Widely used method(s)             | Paired newer method(s)                                      | Why the newer one is superior                                         | **Main purpose**                                              |
 | ------------------------------------------------- | --------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |

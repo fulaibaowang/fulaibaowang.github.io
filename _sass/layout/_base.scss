@@ -16,7 +16,6 @@ body {
 
   margin: 0;
   padding: $masthead-height 0 0;
-  padding-bottom: 9em;
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -80,6 +79,10 @@ del a {
 }
 
 /* reduce orphans and widows when printing */
+
+p, li, blockquote {
+  overflow-wrap: anywhere;
+}
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   orphans: 3;

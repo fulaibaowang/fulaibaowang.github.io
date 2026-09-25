@@ -1,9 +1,10 @@
 ---
-title: "database"
+title: "Database overview"
 permalink: /databases/overview/
 redirect_from:
   - /publication/1-database
 date: 2024-02-17
+excerpt: "Overview of major bioinformatics databases, grouped by category."
 ---
 | Category                                | Database                           | Description                                                                                     |
 |-----------------------------------------|------------------------------------|-------------------------------------------------------------------------------------------------|

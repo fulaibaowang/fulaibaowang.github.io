@@ -10,5 +10,5 @@ date: 2020-10-14
 # location: "San Francisco, California"
 ---
 
--> [https://mp.weixin.qq.com/s/2DdB4kE8-9eXV_dffAn3Jg](https://mp.weixin.qq.com/s/2DdB4kE8-9eXV_dffAn3Jg)
+[Read on WeChat](https://mp.weixin.qq.com/s/2DdB4kE8-9eXV_dffAn3Jg) (in Chinese)
 

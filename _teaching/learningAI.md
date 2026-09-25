@@ -1,6 +1,7 @@
 ---
 title: "useful links for learning deep learning"
 collection: teaching
+date: 2025-03-06
 permalink: /repos/learning-ai/
 redirect_from:
   - /resources/learning-ai/

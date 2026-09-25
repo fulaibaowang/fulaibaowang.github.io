@@ -1,6 +1,7 @@
 ---
 title: "Scrollbrella - an umbrella against doom-scrolling"
 collection: teaching
+date: 2026-09-23
 permalink: /repos/scrollbrella/
 ---
 [Open the app](https://fulaibaowang.github.io/scrollbrella/), [GitHub Repo](https://github.com/fulaibaowang/scrollbrella)
